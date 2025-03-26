@@ -96,6 +96,4 @@ test_model(model_path='best_model.pth', test_loader=test_loader)
 ## Model Weights
 
 Pre-trained model weights are available at:
-`https://github.com/winstongarth/dl_coursework_2025_model/raw/refs/heads/main/best_model_fold_2.pth`
-
-Would you like me to explain or break down any part of this README?
+`https://github.com/winstongarth/dl_coursework_2025_model/raw/refs/heads/main/pretrained_model.pth`
